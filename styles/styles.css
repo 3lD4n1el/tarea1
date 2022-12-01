@@ -1,0 +1,47 @@
+body {
+  background-color: #FFFFFF;
+  font-family: sans-serif;
+  flex-direction: row-reverse;
+
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+h1 {
+  color: #d15434;
+  display: flex;
+  justify-content: center;
+}
+
+#razon {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 3%;
+}
+
+img {
+  width: 200px;
+  margin-left: 100px;
+}
+
+div {
+  max-width: 18%;
+  padding-left: 10px;
+}
+
+
+h3 {
+  color: #ff0404;
+  margin-left: 20px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 25px;
+}
